@@ -32,8 +32,8 @@ A modern React application for managing items with a clean UI and robust state m
 
 1. Clone the repository
    ```bash
-   git clone <repository_url>
-   cd my-backend-app
+   git clone https://github.com/anrisys/test-case-2_frontend
+   cd my-frontend-app
    ```
 2. Install dependencies:
 
